@@ -40,16 +40,16 @@ public class Base_Class {
 			driver.manage().window().maximize();
 		}
 		
-		public static void click(WebElement element) {
+		//public static void click(WebElement element) {
 			
-			element.click();
-		}
+		//	element.click();
+		//}
 		
-		public static void sendKeys(WebElement element,String input)
-		{
+		//public static void sendKeys(WebElement element,String input)
+		//{
 			
-			element.sendKeys(input);
-		}
+		//	element.sendKeys(input);
+		//}
 		
 		
 		
