@@ -1,5 +1,6 @@
-package Com.pom;
+package Com.Oct_31_Mini_Project;
 
+	
 	import org.openqa.selenium.WebDriver;
 	import org.openqa.selenium.WebElement;
 	import org.openqa.selenium.support.FindBy;
